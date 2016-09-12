@@ -1,0 +1,37 @@
+body {
+	border: 20px solid #bdc3c7;
+	width: 66%;
+	margin:  15 auto;
+}
+
+.article {
+	margin-left: 20px;
+	font-family: source sans pro;
+	padding-right: 5px;
+	padding-top: 5px;
+}
+
+.quote {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+h4 {
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+}
+
+h2 {
+	color: #2c3e50;
+	font-weight: 800;
+}
+p {
+	font-weight: 600;
+}
+
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
